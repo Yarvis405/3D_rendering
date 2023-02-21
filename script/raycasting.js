@@ -1,0 +1,3 @@
+//DOM
+
+let canvas, ctx;
